@@ -1,0 +1,9 @@
+export const NOTELIST = 'Anılar';
+export const NOTEDETAIL = 'Anı Detayları';
+export const ADDNOTE = 'Anı Ekle';
+export const GETSTARTED = 'KID DIARY';
+export const REGISTER = 'Hesap Oluştur';
+export const LOGIN = 'Giriş Yap';
+export const PREMIUM = 'Premium';
+export const PROFILE = 'Profile';
+export const PROFILEEDIT = 'ProfileEdit';
